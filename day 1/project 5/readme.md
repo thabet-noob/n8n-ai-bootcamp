@@ -42,6 +42,26 @@ Your role is to provide **first-level technical support** to employees who use *
 
 ---
 
+## Nodes Used
+
+1. **When chat message received**
+
+   * Public chat trigger that starts the conversation.
+
+2. **Chatbot (Agent)**
+
+   * Handles the conversation logic and applies the system prompt.
+
+3. **Simple Memory**
+
+   * Stores the last 10 messages to keep conversational context.
+
+4. **Google Gemini Chat Model**
+
+   * Generates the chatbot’s responses.
+
+---
+
 ## Flow (high level)
 
 1. **When chat message received**
