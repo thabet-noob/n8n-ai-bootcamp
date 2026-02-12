@@ -12,3 +12,4 @@ Activity Log:
 2026-02-12T12:00:00.000+01:00 - Ticket escalated to human IT technician for hardware repair (Urgent).
 2026-02-12T12:10:00.000+01:00 - User reported: "It is working now." Ticket closed.
 2026-02-12T12:16:00.000+01:00 - User reported: "It is not working now." Ticket reopened and escalated to human IT technician for hardware repair (Urgent).
+2026-02-12T12:20:00.000+01:00 - User requested immediate replacement device; ticket escalated to procurement and assigned technician (Urgent).
