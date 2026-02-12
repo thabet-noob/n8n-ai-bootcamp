@@ -1,0 +1,9 @@
+User Name: thabet  
+
+Submitted: 2026-02-13T00:59:57.869+04:00  
+
+Description: User thabet reports microphone not working. No device details provided. User reports issue is not urgent. Requesting IT technician assistance for microphone hardware/functionality (possible hardware, driver, or settings issue).  
+
+Status: Open 
+
+Prio: Not Urgent
