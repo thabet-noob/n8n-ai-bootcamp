@@ -7,3 +7,6 @@ My laptop fell down and is broken now
 
 Status: Open
 Prio: Urgent
+
+Activity Log:
+2026-02-12T12:00:00.000+01:00 - Ticket escalated to human IT technician for hardware repair (Urgent).
