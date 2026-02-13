@@ -1,0 +1,9 @@
+User Name: Thabet  
+
+Submitted: 2026-02-13T09:04:00.316+04:00  
+
+Description: prob of screen  
+
+Status: open 
+
+Prio: urgent
