@@ -1,0 +1,9 @@
+User Name: Mohsen  
+
+Submitted: 2026-02-13T09:09:55.870+04:00  
+
+Description: Charger not working. User reports they have a spare but it is poor quality and wants the charger replaced. Device type not provided.  
+
+Status: Open 
+
+Prio: Not Urgent
