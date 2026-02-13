@@ -3,12 +3,13 @@ User Name: Thabet
 Submitted: 2026-02-13T09:04:00.316+04:00  
 
 Description:
-prob of screen  
+Screen not working again — recurrence of previous display issue.
 
-Status: closed  
+Status: open  
 
 Prio: urgent
 
 Activity Log:
 2026-02-13T09:20:00.000+04:00 - Ticket reviewed by IT chatbot. Issue classified as hardware/display and escalated to human IT technician (Urgent). Technician assignment requested.
 2026-02-13T09:30:00.000+04:00 - User confirmed issue resolved. Ticket closed.
+2026-02-13T09:45:00.000+04:00 - User reported issue reoccurred; ticket reopened and escalated to human IT technician (Urgent). Technician assignment requested.
