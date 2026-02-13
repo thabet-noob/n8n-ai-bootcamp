@@ -1,9 +1,14 @@
 User Name: Mohsen  
 
-Submitted: 2026-02-13T09:09:55.870+04:00  
+Submitted: 2026-02-13T09:10:00.000+04:00  
 
-Description: Charger not working. User reports they have a spare but it is poor quality and wants the charger replaced. Device type not provided.  
+Description:
+Charger not working. User reports they have a spare but it is poor quality and wants the charger replaced.
 
-Status: Open 
+Status: closed  
 
 Prio: Not Urgent
+
+Activity Log:
+2026-02-13T09:10:00.000+04:00 - Ticket created by IT chatbot (Not Urgent).
+2026-02-13T09:50:00.000+04:00 - Ticket closed per user request (Option 1) submitted by Thabet.
