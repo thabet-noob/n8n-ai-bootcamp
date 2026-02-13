@@ -5,9 +5,10 @@ Submitted: 2026-02-13T09:04:00.316+04:00
 Description:
 prob of screen  
 
-Status: open  
+Status: closed  
 
 Prio: urgent
 
 Activity Log:
 2026-02-13T09:20:00.000+04:00 - Ticket reviewed by IT chatbot. Issue classified as hardware/display and escalated to human IT technician (Urgent). Technician assignment requested.
+2026-02-13T09:30:00.000+04:00 - User confirmed issue resolved. Ticket closed.
